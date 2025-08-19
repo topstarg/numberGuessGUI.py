@@ -15,16 +15,6 @@ The program generates a random number, and the player tries to guess it with hel
 
 ---
 
-## 📸 Screenshot (Example)
-*(Add a screenshot here once you run the program)*  
-```
-[ Guess a number between 1 and 100 ]
-Your Guess: [ 42 ]
-[ Guess ]   [ New Game ]
-```
-
----
-
 ## 🛠️ Requirements
 - Python 3.x  
 - `breezypythongui.py` (must be in the same directory as the script)  
