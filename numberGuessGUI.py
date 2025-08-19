@@ -1,6 +1,6 @@
 """
 Program: numberGuessGUI.py
-Chapter 9 case study (page 242 - 245)
+case study
 8/15/2025
 
 ***NOTE: the Python module breezypythongui.py MUST be in the same directory as this file for the app to run properly!
@@ -70,4 +70,5 @@ def main():
 
 # Global call to main() for program entry
 if __name__ == '__main__':
+
 	main()
